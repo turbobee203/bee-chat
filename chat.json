@@ -48,5 +48,10 @@
     "name": "turbobee",
     "message": "test works",
     "time": "2025-10-16T17:49:18.956Z"
+  },
+  {
+    "name": "turbobee",
+    "message": "clear chat only works when supposed to",
+    "time": "2025-10-16T17:49:27.354Z"
   }
 ]
