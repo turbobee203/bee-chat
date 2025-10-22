@@ -330,11 +330,6 @@
     "time": "2025-10-22T18:33:57.611Z"
   },
   {
-    "name": "turbobee",
-    "message": "/offensive",
-    "time": "2025-10-22T18:34:02.377Z"
-  },
-  {
     "name": "System",
     "message": "Removed offensive chat by turbobee",
     "time": "2025-10-22T18:34:20.780Z"
@@ -343,5 +338,10 @@
     "name": "System",
     "message": "Removed offensive chat by turbobee",
     "time": "2025-10-22T18:34:23.332Z"
+  },
+  {
+    "name": "System",
+    "message": "Removed offensive chat by turbobee",
+    "time": "2025-10-22T18:34:27.025Z"
   }
 ]
