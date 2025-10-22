@@ -355,11 +355,6 @@
     "time": "2025-10-22T18:36:33.675Z"
   },
   {
-    "name": "turbobee",
-    "message": "bruh what is that",
-    "time": "2025-10-22T18:36:47.841Z"
-  },
-  {
     "name": "System",
     "message": "Removed offensive chat by turbobee",
     "time": "2025-10-22T18:37:24.476Z"
@@ -368,5 +363,10 @@
     "name": "System",
     "message": "Removed offensive chat by turbobee",
     "time": "2025-10-22T18:37:27.013Z"
+  },
+  {
+    "name": "System",
+    "message": "Removed offensive chat by turbobee",
+    "time": "2025-10-22T18:37:29.626Z"
   }
 ]
