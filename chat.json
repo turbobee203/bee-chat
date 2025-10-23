@@ -83,5 +83,11 @@
     "name": "System",
     "message": "Removed offensive chat by turbobee",
     "time": "2025-10-23T14:47:59.147Z"
+  },
+  {
+    "name": "turbobee",
+    "message": "shit",
+    "time": "2025-10-23T14:49:29.280Z",
+    "wasCensored": false
   }
 ]
