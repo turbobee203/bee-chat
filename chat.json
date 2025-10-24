@@ -68,5 +68,15 @@
     "name": "turbobee",
     "message": "hello",
     "time": "2025-10-24T17:51:26.443Z"
+  },
+  {
+    "name": "turbobee",
+    "message": "****",
+    "time": "2025-10-24T17:51:29.564Z"
+  },
+  {
+    "name": "System",
+    "message": "Censored inappropriate content by turbobee",
+    "time": "2025-10-24T17:51:29.566Z"
   }
 ]
