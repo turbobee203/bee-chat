@@ -1,22 +1,7 @@
 [
   {
     "name": "System",
-    "message": "Chat was cleared",
-    "time": "2026-03-10T19:09:00.358Z"
-  },
-  {
-    "name": "turbobee",
-    "message": "hello",
-    "time": "2026-03-10T20:45:35.791Z"
-  },
-  {
-    "name": "turbobee",
-    "message": "/clear_chat",
-    "time": "2026-03-10T21:05:28.870Z"
-  },
-  {
-    "name": "turbobee",
-    "message": "/clear_chat",
-    "time": "2026-03-10T21:06:03.715Z"
+    "message": "Chat was cleared at [02:08 PM]",
+    "time": "2026-03-10T21:08:14.731Z"
   }
 ]
