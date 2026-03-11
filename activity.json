@@ -1,5 +1,10 @@
 [
   {
+    "name": "POTATO THE HAYDEN",
+    "time": "2026-03-11T19:03:22.257Z",
+    "status": "idle"
+  },
+  {
     "name": "HAYDEN THE POTATO",
     "time": "2026-03-11T19:03:18.903Z",
     "status": "idle"
@@ -8,10 +13,5 @@
     "name": "turbobee",
     "time": "2026-03-11T19:03:12.588Z",
     "status": "idle"
-  },
-  {
-    "name": "POTATO THE HAYDEN",
-    "time": "2026-03-11T19:03:20.616Z",
-    "status": "active"
   }
 ]
